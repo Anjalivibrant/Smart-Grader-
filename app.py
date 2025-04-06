@@ -58,7 +58,7 @@ with st.sidebar.form("login_form"):
 #     st.stop()
 
 # Header
-st.title("📚 AI-Powered Teaching Assistant")
+st.title("📚 SmartGrader: AI-Powered Teaching Assistant")
 st.markdown("""
 This tool helps educators by automatically grading assignments and giving personalized feedback to students. It aligns with **UN SDG 4: Quality Education** to ensure inclusive, equitable, and high-quality education.
 """)
