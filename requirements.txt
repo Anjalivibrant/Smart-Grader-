@@ -1,0 +1,9 @@
+streamlit
+pandas
+google-generativeai
+python-dotenv
+pdfplumber
+easyocr
+matplotlib
+seaborn
+torch
